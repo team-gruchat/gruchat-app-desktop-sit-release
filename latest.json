@@ -1,0 +1,8 @@
+{
+  "versionName": "1.12.6",
+  "versionCode": 29,
+  "releasedAt": "2026-09-25T08:59:20Z",
+  "releaseUrl": "https://github.com/team-gruchat/gruchat-app-desktop-sit-release/releases/tag/v1.12.6-sit.29",
+  "mac": {"url":"https://github.com/team-gruchat/gruchat-app-desktop-sit-release/releases/download/v1.12.6-sit.29/Sit.GruChat-1.12.6.dmg","size":211001103},
+  "windows": {"url":"https://github.com/team-gruchat/gruchat-app-desktop-sit-release/releases/download/v1.12.6-sit.29/Sit.GruChat-1.12.29.msi","size":260816896}
+}
