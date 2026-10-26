@@ -1,8 +1,8 @@
 {
-  "versionName": "1.13.0",
-  "versionCode": 1102,
-  "releasedAt": "2026-10-22T09:49:14Z",
-  "releaseUrl": "https://github.com/team-gruchat/gruchat-app-desktop-sit-release/releases/tag/v1.13.0-sit.1102",
-  "mac": {"url":"https://github.com/team-gruchat/gruchat-app-desktop-sit-release/releases/download/v1.13.0-sit.1102/Sit.GruChat-1.13.0.dmg","size":267974028},
-  "windows": {"url":"https://github.com/team-gruchat/gruchat-app-desktop-sit-release/releases/download/v1.13.0-sit.1102/Sit.GruChat-1.13.1102.msi","size":282206208}
+  "versionName": "1.14.0",
+  "versionCode": 1104,
+  "releasedAt": "2026-10-26T13:42:13Z",
+  "releaseUrl": "https://github.com/team-gruchat/gruchat-app-desktop-sit-release/releases/tag/v1.14.0-sit.1104",
+  "mac": {"url":"https://github.com/team-gruchat/gruchat-app-desktop-sit-release/releases/download/v1.14.0-sit.1104/Sit.GruChat-1.14.0.dmg","size":268570008},
+  "windows": {"url":"https://github.com/team-gruchat/gruchat-app-desktop-sit-release/releases/download/v1.14.0-sit.1104/Sit.GruChat-1.14.1104.msi","size":282910720}
 }
